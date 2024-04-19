@@ -1,16 +1,18 @@
-### Hi there 👋
+## Hi there, I'm João Victor Pereira, backend developer using C# | .NET<br><br>About me:
 
-<!--
-**jvictor2k/jvictor2k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software developer in constant evolution, focused on specializing in C# within the .NET ecosystem. I obtained academic training in Systems Analysis and Development, aiming to expand my knowledge and complete new challenges.
 
-Here are some ideas to get you started:
+## My Skills:
+<div>
+  <img alt="C#" title="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="40">
+  <img alt=".NET" title=".NET" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" height="40">
+  <img alt=".NET" title=".NET" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="40">
+  <img alt=".NET" title=".NET" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40">
+  <img alt=".NET" title=".NET" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40">
+  <img alt=".NET" title=".NET" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" height="40">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Networks:
+<div>
+  If you want to follow me or contact me, you can <a href="https://beacons.ai/jvictor2k" target="_blank">click here</a>.
+</div>
